@@ -20,3 +20,5 @@ Learn DevOps through hands-on practice and real projects.
 
 Learning Git through practical experiments.
 
+Learning how local and remote branches work.
+
