@@ -8,7 +8,7 @@ A hands-on project to learn DevOps from the ground up.
 
 \## Experiment
 
-
+Learning how Pull Requests are used to review and merge changes between branches.
 
 
 
