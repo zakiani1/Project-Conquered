@@ -1,1 +1,2 @@
 Learning Git through practice.
+Understanding Git step by step.
