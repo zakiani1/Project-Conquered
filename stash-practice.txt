@@ -1,2 +1,4 @@
+
 Learning how Git branches work.
+Learning how Git merge conflicts work.
 Practicing Git through troubleshooting	
