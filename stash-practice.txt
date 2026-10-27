@@ -1,2 +1,2 @@
-Learning how Git stash works
+Learning how Git branches work.
 Practicing Git through troubleshooting	
