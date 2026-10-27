@@ -1,2 +1,2 @@
-Learning how Git stash works
+Learning how Git merge conflicts work.
 Practicing Git through troubleshooting	
