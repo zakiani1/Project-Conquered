@@ -21,4 +21,7 @@ Learn DevOps through hands-on practice and real projects.
 Learning Git through practical experiments.
 
 Learning how local and remote branches work.
+## Git Merge Conflict Notes
+When two branches contain changes that Git can not automatically reconcile, a merge conflict occurs. Git highlights the conflicting changes and requires human intervention to decide what to keep before completing the merge.
+
 
